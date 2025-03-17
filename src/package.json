@@ -1,0 +1,21 @@
+{
+  "name": "spanishapi",
+  "version": "1.0.0",
+  "description": "A powerful API for translating English words and sentences to Spanish.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "API",
+    "translation",
+    "English",
+    "Spanish",
+    "dictionary"
+  ],
+  "author": "Calestial Ashley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

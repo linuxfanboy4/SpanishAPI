@@ -14,7 +14,7 @@
     "dictionary"
   ],
   "author": "Calestial Ashley",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
   }
